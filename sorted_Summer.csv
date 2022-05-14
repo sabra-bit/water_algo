@@ -1,0 +1,287 @@
+water,area,prod,city,name,visited,Rank
+4552000.0,2465.0,9218.0,Alexandria,Rice,0,1
+975672000.0,187054.0,632597.0,Sharkia,Rice,0,2
+269677000.0,47059.0,162307.0,Damietta,Rice,0,3
+1310861000.0,228275.0,832509.0,Dakahlia,Rice,0,4
+1195849000.0,190460.0,760126.0,Kafr el sheikh,Rice,0,5
+29896000.0,4710.0,16048.0,Ismailia,Rice,0,6
+117485000.0,18195.0,54694.0,Port said,Rice,0,7
+751795000.0,116431.0,419967.0,Behaira,Rice,0,8
+387853000.0,60067.0,222849.0,Gharbia,Rice,0,9
+12475000.0,1932.0,5945.0,Quliubiya,Rice,0,10
+3230000.0,479.0,1505.0,Fayoum,Rice,0,11
+1396000.0,207.0,768.0,Beni sweif,Rice,0,12
+0,0,0.0,Assuit,Rice,0,13
+0,0,0.0,Aswan,Rice,0,14
+0,0,0.0,Cairo,Rice,0,15
+0,0,0.0,Giza,Rice,0,16
+0,0,0.0,Luxor,Rice,0,17
+0,0,0.0,Minya,Rice,0,18
+0,0,0.0,Monoufia,Rice,0,19
+0,0,0.0,Qena,Rice,0,20
+0,0,0.0,Sohag,Rice,0,21
+0,0,0.0,Suez,Rice,0,22
+6130000.0,8109.0,16190.0,Aswan,Maize,0,1
+2240000.0,1050.0,2438.0,Giza,Maize,0,2
+5854000.0,2208.0,4979.0,Luxor,Maize,0,3
+62163000.0,17906.0,43951.0,Minya,Maize,0,4
+23365000.0,6252.0,12991.0,Beni sweif,Maize,0,5
+249104000.0,65435.0,176966.0,Assuit,Maize,0,6
+131692000.0,34133.0,75043.0,Qena,Maize,0,7
+384894000.0,99603.0,227485.0,Sohag,Maize,0,8
+532630000.0,130803.0,242096.0,Fayoum,Maize,0,9
+0,0,0.0,Alexandria,Maize,0,10
+0,0,0.0,Behaira,Maize,0,11
+0,0,0.0,Cairo,Maize,0,12
+0,0,0.0,Dakahlia,Maize,0,13
+0,0,0.0,Damietta,Maize,0,14
+0,0,0.0,Gharbia,Maize,0,15
+0,0,0.0,Ismailia,Maize,0,16
+0,0,0.0,Kafr el sheikh,Maize,0,17
+0,0,0.0,Monoufia,Maize,0,18
+0,0,0.0,Port said,Maize,0,19
+0,0,0.0,Quliubiya,Maize,0,20
+0,0,0.0,Sharkia,Maize,0,21
+0,0,0.0,Suez,Maize,0,22
+21484000.0,46737.0,137891.0,Alexandria,Sorghum,0,1
+177000.0,138.0,272.0,Cairo,Sorghum,0,2
+207399000.0,155024.0,604316.0,Dakahlia,Sorghum,0,3
+249532999.99999997,110279.0,363272.0,Gharbia,Sorghum,0,4
+27204000.0,11825.0,26223.0,Aswan,Sorghum,0,5
+779188000.0,290789.0,1014374.0,Sharkia,Sorghum,0,6
+99076000.0,34571.0,116176.0,Ismailia,Sorghum,0,7
+868114000.0,290455.0,974584.0,Behaira,Sorghum,0,8
+255265000.0,84462.0,286364.0,Quliubiya,Sorghum,0,9
+16100999.999999998,5187.0,11311.0,Suez,Sorghum,0,10
+137920000.0,44223.0,137225.0,Giza,Sorghum,0,11
+219270000.0,69365.0,245253.0,Kafr el sheikh,Sorghum,0,12
+33646000.0,9849.0,24093.0,Port said,Sorghum,0,13
+1039294000.0,295449.0,801407.0,Minya,Sorghum,0,14
+812799000.0,208073.0,569782.0,Assuit,Sorghum,0,15
+157571000.0,39404.0,75118.0,Qena,Sorghum,0,16
+654721000.0,162455.0,461355.0,Sohag,Sorghum,0,17
+689161000.0,168697.0,629690.0,Monoufia,Sorghum,0,18
+628138000.0,146405.0,405229.0,Beni sweif,Sorghum,0,19
+10418000.0,2393.0,7618.0,Damietta,Sorghum,0,20
+70008000.0,15748.0,34578.0,Luxor,Sorghum,0,21
+467861000.0,102501.0,261863.0,Fayoum,Sorghum,0,22
+609526000.0,85869.0,4536367.0,Aswan,Sugar cane,0,1
+1867000.0,262.0,8100.0,Beni sweif,Sugar cane,0,2
+752000.0,96.0,3959.0,Kafr el sheikh,Sugar cane,0,3
+1974000.0,252.0,9708.0,Dakahlia,Sugar cane,0,4
+3291000.0,420.0,14067.0,Quliubiya,Sugar cane,0,5
+337000.0,43.0,1141.0,Behaira,Sugar cane,0,6
+63000.0,8.0,205.0,Damietta,Sugar cane,0,7
+63000.0,8.0,232.0,Cairo,Sugar cane,0,8
+557601000.0,66345.0,3120212.0,Luxor,Sugar cane,0,9
+120842999.99999999,13508.0,599927.0,Sohag,Sugar cane,0,10
+372086000.0,39247.0,1562657.0,Minya,Sugar cane,0,11
+18867000.0,1970.0,78804.0,Giza,Sugar cane,0,12
+2270000.0,237.0,5814.0,Fayoum,Sugar cane,0,13
+1148109000.0,118075.0,5846576.0,Qena,Sugar cane,0,14
+11024000.0,1081.0,35334.0,Assuit,Sugar cane,0,15
+0,0,0.0,Alexandria,Sugar cane,0,16
+0,0,0.0,Gharbia,Sugar cane,0,17
+0,0,0.0,Ismailia,Sugar cane,0,18
+0,0,0.0,Monoufia,Sugar cane,0,19
+0,0,0.0,Port said,Sugar cane,0,20
+0,0,0.0,Sharkia,Sugar cane,0,21
+0,0,0.0,Suez,Sugar cane,0,22
+366999.99999999994,620.0,571.0,Alexandria,Sunflower,0,1
+7035000.0,3952.0,4358.0,Behaira,Sunflower,0,2
+446000.0,244.0,611.0,Assuit,Sunflower,0,3
+8368999.999999999,3115.0,2389.0,Fayoum,Sunflower,0,4
+34000.0,12.0,36.0,Gharbia,Sunflower,0,5
+149000.0,52.0,41.0,Dakahlia,Sunflower,0,6
+1082000.0,377.0,311.0,Sharkia,Sunflower,0,7
+676000.0,233.0,458.0,Beni sweif,Sunflower,0,8
+3858000.0000000005,1278.0,1228.0,Minya,Sunflower,0,9
+941000.0,280.0,1036.0,Giza,Sunflower,0,10
+43000.0,12.0,18.0,Sohag,Sunflower,0,11
+0,0,0.0,Aswan,Sunflower,0,12
+0,0,0.0,Cairo,Sunflower,0,13
+0,0,0.0,Damietta,Sunflower,0,14
+0,0,0.0,Ismailia,Sunflower,0,15
+0,0,0.0,Kafr el sheikh,Sunflower,0,16
+0,0,0.0,Luxor,Sunflower,0,17
+0,0,0.0,Monoufia,Sunflower,0,18
+0,0,0.0,Port said,Sunflower,0,19
+0,0,0.0,Qena,Sunflower,0,20
+0,0,0.0,Quliubiya,Sunflower,0,21
+0,0,0.0,Suez,Sunflower,0,22
+23000.0,23.0,16.0,Ismailia,Soybean,0,1
+3106000.0,1136.0,1334.0,Sharkia,Soybean,0,2
+21594000.0,6749.0,8307.0,Dakahlia,Soybean,0,3
+80000.0,25.0,35.0,Damietta,Soybean,0,4
+544000.0,170.0,232.0,Behaira,Soybean,0,5
+813000.0,254.0,384.0,Quliubiya,Soybean,0,6
+541000.0,169.0,155.0,Kafr el sheikh,Soybean,0,7
+2133000.0,666.0,886.0,Gharbia,Soybean,0,8
+42000.0,13.0,38.0,Monoufia,Soybean,0,9
+24000.0,6.0,4.0,Fayoum,Soybean,0,10
+12136000.0,3006.0,4460.0,Beni sweif,Soybean,0,11
+97326000.0,23971.0,28517.0,Minya,Soybean,0,12
+7123999.999999999,1542.0,1915.0,Assuit,Soybean,0,13
+855000.0,179.0,286.0,Sohag,Soybean,0,14
+0,0,0.0,Alexandria,Soybean,0,15
+0,0,0.0,Aswan,Soybean,0,16
+0,0,0.0,Cairo,Soybean,0,17
+0,0,0.0,Giza,Soybean,0,18
+0,0,0.0,Luxor,Soybean,0,19
+0,0,0.0,Port said,Soybean,0,20
+0,0,0.0,Qena,Soybean,0,21
+0,0,0.0,Suez,Soybean,0,22
+157000.0,2173.0,1221.0,Aswan,Sesame,0,1
+258999.99999999997,1665.0,659.0,Alexandria,Sesame,0,2
+774000.0,489.0,247.0,Luxor,Sesame,0,3
+3557000.0,2011.0,1284.0,Sohag,Sesame,0,4
+583000.0,328.0,146.0,Suez,Sesame,0,5
+6722000.0,3576.0,1887.0,Ismailia,Sesame,0,6
+6848000.0,3408.0,1941.0,Beni sweif,Sesame,0,7
+1959000.0,901.0,447.0,Assuit,Sesame,0,8
+10346000.0,4656.0,3081.0,Minya,Sesame,0,9
+28938000.000000004,12447.0,7473.0,Sharkia,Sesame,0,10
+30653000.0,10400.0,6442.0,Behaira,Sesame,0,11
+3000.0,1.0,0.5,Cairo,Sesame,0,12
+6000.0,2.0,1.0,Damietta,Sesame,0,13
+683000.0,224.0,129.0,Gharbia,Sesame,0,14
+3983000.0,1306.0,580.0,Port said,Sesame,0,15
+1022000.0,335.0,146.0,Dakahlia,Sesame,0,16
+522000.0,171.0,94.0,Kafr el sheikh,Sesame,0,17
+92000.0,30.0,16.0,Quliubiya,Sesame,0,18
+9552000.0,3034.0,1811.0,Giza,Sesame,0,19
+2561000.0,783.0,484.0,Qena,Sesame,0,20
+11082000.0,3086.0,1600.0,Fayoum,Sesame,0,21
+0,0,0.0,Monoufia,Sesame,0,22
+4000.0,461.0,600.0,Aswan,Peanuts,0,1
+34000.0,84.0,69.0,Luxor,Peanuts,0,2
+880000.0,1132.0,1694.0,Beni sweif,Peanuts,0,3
+13401000.0,8320.0,14530.0,Ismailia,Peanuts,0,4
+3652000.0,2145.0,3434.0,Sohag,Peanuts,0,5
+12805000.0,7027.0,11025.0,Minya,Peanuts,0,6
+1680000.0,791.0,1330.0,Assuit,Peanuts,0,7
+6361000.0,2672.0,4826.0,Giza,Peanuts,0,8
+26962000.0,10840.0,15588.0,Behaira,Peanuts,0,9
+48230000.0,18625.0,29211.0,Sharkia,Peanuts,0,10
+18000.0,6.0,7.0,Kafr el sheikh,Peanuts,0,11
+912000.0,299.0,469.0,Monoufia,Peanuts,0,12
+1446000.0,474.0,758.0,Quliubiya,Peanuts,0,13
+223000.0,73.0,100.0,Gharbia,Peanuts,0,14
+122000.0,35.0,8.0,Fayoum,Peanuts,0,15
+122000.0,33.0,23.0,Qena,Peanuts,0,16
+0,0,0.0,Alexandria,Peanuts,0,17
+0,0,0.0,Cairo,Peanuts,0,18
+0,0,0.0,Dakahlia,Peanuts,0,19
+0,0,0.0,Damietta,Peanuts,0,20
+0,0,0.0,Port said,Peanuts,0,21
+0,0,0.0,Suez,Peanuts,0,22
+286000.0,33595.90608274682,520342.20567910385,Cairo,vegetables,0,1
+5252000.0,32505.705042007296,32307.595999335776,Aswan,vegetables,0,2
+7758999.999999999,19843.0,1006248.0,Qena,vegetables,0,3
+1018000.0,2085.940654259328,32307.595999335776,Port said,vegetables,0,4
+40937000.0,79971.15326299384,1238614.1983215604,Quliubiya,vegetables,0,5
+40132000.0,55814.2453,630667.9,Beni sweif,vegetables,0,6
+90410000.0,87887.0,1361220.0,Damietta,vegetables,0,7
+22437000.0,17004.0,271663.0,Sohag,vegetables,0,8
+108267000.0,79971.15326299384,1238614.1983215604,Alexandria,vegetables,0,9
+6101000.0,3940.0,34596.45,Suez,vegetables,0,10
+166071000.0,79971.15326299384,1238614.1983215604,Monoufia,vegetables,0,11
+70556000.0,33595.90608274682,520342.20567910385,Gharbia,vegetables,0,12
+70098000.0,32505.705042007296,520342.20567910385,Ismailia,vegetables,0,13
+132980000.0,33595.90608274682,520342.20567910385,Sharkia,vegetables,0,14
+171438000.0,32505.705042007296,1238614.1983215604,Minya,vegetables,0,15
+11129000.0,1412.0,245772.0,Luxor,vegetables,0,16
+148240000.0,16587.0,841124.0,Giza,vegetables,0,17
+18503000.0,1090.201040739524,32307.595999335776,Assuit,vegetables,0,18
+36694000.0,1072.697,186649.7,Fayoum,vegetables,0,19
+88715000.0,2175.940654259328,32307.595999335776,Kafr el sheikh,vegetables,0,20
+158738000.0,2085.940654259328,32307.595999335776,Dakahlia,vegetables,0,21
+401184000.0,2085.940654259328,32307.595999335776,Behaira,vegetables,0,22
+1455000.0,1735.0,2027.0,Ismailia,Cotton,0,1
+3386000.0,1708.0,1929.0,Alexandria,Cotton,0,2
+118269000.0,51858.0,78104.0,Dakahlia,Cotton,0,3
+121985000.0,49522.0,69281.0,Sharkia,Cotton,0,4
+327496000.0,106541.0,119529.0,Kafr el sheikh,Cotton,0,5
+27017000.0,8721.0,9925.0,Damietta,Cotton,0,6
+7511000.0,2416.0,3516.0,Monoufia,Cotton,0,7
+179007000.0,57577.0,68557.0,Behaira,Cotton,0,8
+44263000.0,14237.0,20046.0,Gharbia,Cotton,0,9
+19270000.0,6198.0,6345.0,Port said,Cotton,0,10
+224000.0,72.0,81.0,Quliubiya,Cotton,0,11
+42689000.0,10294.0,13279.0,Beni sweif,Cotton,0,12
+67024000.00000001,16162.0,21051.0,Fayoum,Cotton,0,13
+6731000.000000001,1623.0,2109.0,Minya,Cotton,0,14
+19037000.0,4474.0,6567.0,Assuit,Cotton,0,15
+3787000.0,890.0,1228.0,Sohag,Cotton,0,16
+0,0,0.0,Aswan,Cotton,0,17
+0,0,0.0,Cairo,Cotton,0,18
+0,0,0.0,Giza,Cotton,0,19
+0,0,0.0,Luxor,Cotton,0,20
+0,0,0.0,Qena,Cotton,0,21
+0,0,0.0,Suez,Cotton,0,22
+2476000.0,2065.0,26028.0,Alexandria,Green folder,0,1
+10710000.0,5156.0,114189.0,Ismailia,Green folder,0,2
+72215000.0,32773.0,667529.0,Sharkia,Green folder,0,3
+33950000.0,14607.0,134093.0,Beni sweif,Green folder,0,4
+765000.0,301.0,3179.0,Cairo,Green folder,0,5
+2567000.0,980.0,3933.0,Aswan,Green folder,0,6
+14665000.0,5477.0,67094.0,Luxor,Green folder,0,7
+8394000.0,3017.0,31152.0,Minya,Green folder,0,8
+8534000.0,2999.0,40147.0,Suez,Green folder,0,9
+9977000.0,3280.0,114033.0,Qena,Green folder,0,10
+33396000.0,10913.0,185591.0,Dakahlia,Green folder,0,11
+75845000.0,24783.0,336737.0,Kafr el sheikh,Green folder,0,12
+69221000.0,22614.0,268329.0,Behaira,Green folder,0,13
+31109000.000000004,10163.0,98519.0,Damietta,Green folder,0,14
+46353000.0,15143.0,222730.0,Port said,Green folder,0,15
+36212000.0,11830.0,182395.0,Quliubiya,Green folder,0,16
+17644000.0,5764.0,69079.0,Gharbia,Green folder,0,17
+3291000.0,1075.0,12642.0,Monoufia,Green folder,0,18
+40844000.0,12055.0,249369.0,Assuit,Green folder,0,19
+68957000.0,18827.0,285976.0,Giza,Green folder,0,20
+147054000.0,39144.0,222191.0,Fayoum,Green folder,0,21
+91736999.99999999,22237.0,185413.0,Sohag,Green folder,0,22
+15000.000000000002,21.0,215.0,Ismailia,Fully grown Onions,0,1
+896000.0000000001,606.0,9157.0,Behaira,Fully grown Onions,0,2
+4000.0,2.5,31.0,Sharkia,Fully grown Onions,0,3
+149000.0,92.0,1298.0,Damietta,Fully grown Onions,0,4
+533000.0,287.0,3695.0,Dakahlia,Fully grown Onions,0,5
+744000.0000000001,345.0,4704.0,Monoufia,Fully grown Onions,0,6
+9747000.0,2759.0,44607.0,Giza,Fully grown Onions,0,7
+0,0,0.0,Alexandria,Fully grown Onions,0,8
+0,0,0.0,Assuit,Fully grown Onions,0,9
+0,0,0.0,Aswan,Fully grown Onions,0,10
+0,0,0.0,Beni sweif,Fully grown Onions,0,11
+0,0,0.0,Cairo,Fully grown Onions,0,12
+0,0,0.0,Fayoum,Fully grown Onions,0,13
+0,0,0.0,Gharbia,Fully grown Onions,0,14
+0,0,0.0,Kafr el sheikh,Fully grown Onions,0,15
+0,0,0.0,Luxor,Fully grown Onions,0,16
+0,0,0.0,Minya,Fully grown Onions,0,17
+0,0,0.0,Port said,Fully grown Onions,0,18
+0,0,0.0,Qena,Fully grown Onions,0,19
+0,0,0.0,Quliubiya,Fully grown Onions,0,20
+0,0,0.0,Sohag,Fully grown Onions,0,21
+0,0,0.0,Suez,Fully grown Onions,0,22
+579000.0,4770.0,12522.5,Luxor,Medical and Aromatic plants,0,1
+956000.0,7875.0,20674.0,Aswan,Medical and Aromatic plants,0,2
+518000.0,1357.0,1735.0,Qena,Medical and Aromatic plants,0,3
+425000.0,1044.0,1012.0,Dakahlia,Medical and Aromatic plants,0,4
+2103000.0,2244.0,4153.0,Minya,Medical and Aromatic plants,0,5
+6000.0,5.0,4.0,Port said,Medical and Aromatic plants,0,6
+470000.0,375.0,294.0,Ismailia,Medical and Aromatic plants,0,7
+91000.0,71.0,44.0,Kafr el sheikh,Medical and Aromatic plants,0,8
+175000.0,127.0,85.0,Sharkia,Medical and Aromatic plants,0,9
+1379000.0,958.0,2268.0,Gharbia,Medical and Aromatic plants,0,10
+214000.0,147.0,1001.0,Cairo,Medical and Aromatic plants,0,11
+630000.0,432.0,2950.0,Quliubiya,Medical and Aromatic plants,0,12
+13717000.0,7665.0,110780.0,Beni sweif,Medical and Aromatic plants,0,13
+12201000.0,6472.0,36369.0,Fayoum,Medical and Aromatic plants,0,14
+46000.0,22.5,244.0,Sohag,Medical and Aromatic plants,0,15
+12141000.0,5922.0,64164.0,Assuit,Medical and Aromatic plants,0,16
+5809000.0,2593.0,3495.0,Behaira,Medical and Aromatic plants,0,17
+393000.0,175.0,236.0,Alexandria,Medical and Aromatic plants,0,18
+1168000.0,441.0,738.0,Giza,Medical and Aromatic plants,0,19
+0,0,0.0,Damietta,Medical and Aromatic plants,0,20
+0,0,0.0,Monoufia,Medical and Aromatic plants,0,21
+0,0,0.0,Suez,Medical and Aromatic plants,0,22

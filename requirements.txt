@@ -1,0 +1,11 @@
+seaborn
+streamlit
+numpy
+pandas
+matplotlib
+plotly
+numerize
+networkx
+xlrd
+pyvis
+prettytable
